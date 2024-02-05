@@ -2,7 +2,7 @@
 
 👨‍🎓 Estudante de **Análise e Desenvolvimento de Sistemas** <br />
 👨‍🎓 Estudante de Javascript na [Digital College](https://digitalcollege.com.br/)<br />
-⚽ Apaixonado por futebol **Salve o Tricolor Paulista**<br />
+⚽ Apaixonado por futebol **Salve o Tricolor Paulista** <br />
 🎹 Instrumentista<br />
 
 Atualmente desenvolvendo habilidades em:<br />
