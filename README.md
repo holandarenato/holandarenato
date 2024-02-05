@@ -1,12 +1,9 @@
 ### Fala gente, meu nome é Renato 👋
 
-👨‍🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-
-👨‍🎓 Estudante de Javascript na [Digital College](https://digitalcollege.com.br/)
-
-⚽ Apaixonado por futebol **Salve o Tricolor Paulista**
-
-🎹 Instrumentista
+👨‍🎓 Estudante de **Análise e Desenvolvimento de Sistemas** <br />
+👨‍🎓 Estudante de Javascript na [Digital College](https://digitalcollege.com.br/)<br />
+⚽ Apaixonado por futebol **Salve o Tricolor Paulista**<br />
+🎹 Instrumentista<br />
 
 Atualmente desenvolvendo habilidades em:
 
@@ -15,6 +12,7 @@ Atualmente desenvolvendo habilidades em:
   <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 </div>
 
+##
 
 **Você também me encontra em:**
 
