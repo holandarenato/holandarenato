@@ -1,16 +1,27 @@
-### Hi there 👋
+### Fala gente, meu nome é Renato 👋
 
-<!--
-**holandarenato/holandarenato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 
-Here are some ideas to get you started:
+👨‍🎓 Estudante de Javascript na [Digital College](https://digitalcollege.com.br/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚽ Apaixonado por futebol **Salve o Tricolor Paulista**
+
+🎹 Instrumentista
+
+Atualmente desenvolvendo habilidades em:
+
+<div display="inline">
+  <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img width="50" heigth="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+</div>
+
+
+**Você também me encontra em:**
+
+<a href="https://www.linkedin.com/in/renato-holanda-64975499"/>
+ <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"/>
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
